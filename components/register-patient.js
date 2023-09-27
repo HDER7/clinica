@@ -80,7 +80,7 @@ const RegisterPatient = () => {
 
     return (
         <ScrollView style={styles.container}>
-            <Text style={styles.title}>Paciente</Text>
+            <Text style={styles.title}>Registro Paciente</Text>
             <View style={styles.inputContainer}>
                 <Text style={styles.textInput}>Numero de indentificacion unico</Text>
                 <TextInput

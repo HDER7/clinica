@@ -12,7 +12,7 @@ function AttendanceRegistration(){
     const searchWorker = () => {
         if (id !== ''){
             //Aqui se buscara el trabajador
-            //si el trabajador existe se debe mostrar la info para actualizarla
+            //si el trabajador existe se debe registrar su asitencia
             setShouldShow(true);
         }
         else {

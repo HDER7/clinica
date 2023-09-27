@@ -1,8 +1,8 @@
 import React from 'react';
-import AttendanceRegistration from './components/attendance_registration';
+import RegisterPatient from './components/register-patient';
 
 function App(): JSX.Element {
-  return <AttendanceRegistration />;
+  return <RegisterPatient />;
 }
 
 export default App;
